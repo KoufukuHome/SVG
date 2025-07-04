@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.11 143.09">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ShinGoPr5-DeBold-90ms-RKSJ-H, 'A-OTF Shin Go Pr5';
+        font-size: 12.53px;
+        font-weight: 700;
+        letter-spacing: .34em;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6, .cls-2, .cls-7 {
+        font-family: ShinMGoPro-Medium-90ms-RKSJ-H, 'A-OTF Shin Maru Go Pro';
+        font-weight: 500;
+      }
+
+      .cls-6, .cls-7 {
+        fill: #3e3a39;
+        font-size: 4.4px;
+      }
+
+      .cls-2 {
+        font-size: 4.62px;
+        letter-spacing: .48em;
+      }
+
+      .cls-2, .cls-7 {
+        glyph-orientation-vertical: 0deg;
+        text-orientation: upright;
+        writing-mode: tb;
+      }
+
+      .cls-8 {
+        stroke-width: 7.4px;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11, .cls-5, .cls-12, .cls-13, .cls-14 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        fill: none;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-12, .cls-13, .cls-14 {
+        stroke: #c9caca;
+      }
+
+      .cls-16 {
+        fill: #004f8c;
+      }
+
+      .cls-9 {
+        stroke-width: 1.85px;
+      }
+
+      .cls-4 {
+        font-family: ShinMGoPro-Regular-90ms-RKSJ-H, 'A-OTF Shin Maru Go Pro';
+        font-size: 3.88px;
+      }
+
+      .cls-10 {
+        stroke-width: 2.77px;
+      }
+
+      .cls-11 {
+        stroke: #f4a255;
+        stroke-width: 8.32px;
+      }
+
+      .cls-17 {
+        fill: #da4f52;
+      }
+
+      .cls-5 {
+        stroke: #007ec4;
+        stroke-width: .66px;
+      }
+
+      .cls-18 {
+        fill: #bd7a7d;
+      }
+
+      .cls-12 {
+        stroke-width: 3.7px;
+      }
+
+      .cls-13 {
+        stroke-width: 2.31px;
+      }
+
+      .cls-19 {
+        fill: #4c4645;
+      }
+
+      .cls-14 {
+        stroke-width: 4.62px;
+      }
+
+      .cls-15 {
+        stroke: #bd7a7d;
+        stroke-width: .74px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_2-2" data-name="レイヤー 2">
+    <rect class="cls-5" x=".33" y=".33" width="182.45" height="142.43" rx="4.68" ry="4.68"/>
+  </g>
+  <g id="_レイヤー_3" data-name="レイヤー 3">
+    <g>
+      <polyline class="cls-12" points="83.25 98.86 87.37 129.53 136.62 129.53"/>
+      <path class="cls-14" d="M67.65,9.19v39.88c0,28.11-22.14,42.46-52.27,48.25"/>
+      <g>
+        <rect class="cls-16" x="18.37" y="88.52" width="12.19" height="5.38"/>
+        <text class="cls-4" transform="translate(20.31 92.64) scale(1.07 1)"><tspan x="0" y="0">花山</tspan></text>
+      </g>
+      <line class="cls-8" x1="8.98" y1="33.92" x2="177.11" y2="33.92"/>
+      <path class="cls-14" d="M8.98,97.32h97.43c22.61,0,31.04-16.03,31.04-31.04V9.19"/>
+      <line class="cls-11" x1="45.98" y1="137.92" x2="45.98" y2="9.19"/>
+      <text class="cls-2" transform="translate(45.98 45.71)"><tspan x="0" y="0">阪和自動車道</tspan></text>
+      <g>
+        <path class="cls-19" d="M70.95,31.91h-7.42c-1.15,0-2.06.9-2.06,2.02s.91,2.01,2.06,2.01h7.42c1.13,0,2.06-.9,2.06-2.01s-.92-2.02-2.06-2.02Z"/>
+        <path class="cls-3" d="M63.8,32.4c-.87,0-1.57.68-1.57,1.53s.7,1.53,1.57,1.53,1.56-.69,1.56-1.53-.69-1.53-1.56-1.53Z"/>
+        <path class="cls-3" d="M67.24,32.4c-.87,0-1.56.68-1.56,1.53s.7,1.53,1.56,1.53,1.56-.69,1.56-1.53-.69-1.53-1.56-1.53Z"/>
+        <path class="cls-3" d="M70.81,32.4c-.87,0-1.57.68-1.57,1.53s.7,1.53,1.57,1.53,1.56-.69,1.56-1.53-.7-1.53-1.56-1.53Z"/>
+      </g>
+      <g>
+        <path class="cls-19" d="M26.19,95.31h-7.42c-1.15,0-2.06.9-2.06,2.02s.91,2.01,2.06,2.01h7.42c1.13,0,2.06-.9,2.06-2.01s-.92-2.02-2.06-2.02Z"/>
+        <path class="cls-3" d="M19.03,95.8c-.87,0-1.57.68-1.57,1.53s.7,1.53,1.57,1.53,1.56-.69,1.56-1.53-.69-1.53-1.56-1.53Z"/>
+        <path class="cls-3" d="M22.47,95.8c-.87,0-1.56.68-1.56,1.53s.7,1.53,1.56,1.53,1.56-.69,1.56-1.53-.69-1.53-1.56-1.53Z"/>
+        <path class="cls-3" d="M26.04,95.8c-.87,0-1.57.68-1.57,1.53s.7,1.53,1.57,1.53,1.56-.69,1.56-1.53-.7-1.53-1.56-1.53Z"/>
+      </g>
+      <g>
+        <path class="cls-19" d="M86.96,95.31h-7.42c-1.15,0-2.06.9-2.06,2.02s.91,2.01,2.06,2.01h7.42c1.13,0,2.06-.9,2.06-2.01s-.92-2.02-2.06-2.02Z"/>
+        <path class="cls-3" d="M79.81,95.8c-.87,0-1.57.68-1.57,1.53s.7,1.53,1.57,1.53,1.56-.69,1.56-1.53-.69-1.53-1.56-1.53Z"/>
+        <path class="cls-3" d="M83.25,95.8c-.87,0-1.56.68-1.56,1.53s.7,1.53,1.56,1.53,1.56-.69,1.56-1.53-.69-1.53-1.56-1.53Z"/>
+        <path class="cls-3" d="M86.82,95.8c-.87,0-1.57.68-1.57,1.53s.7,1.53,1.57,1.53,1.56-.69,1.56-1.53-.7-1.53-1.56-1.53Z"/>
+      </g>
+      <text class="cls-6" transform="translate(71.96 43.37)"><tspan x="0" y="0">●フォルクス</tspan><tspan x="0" y="5.63">　ワーゲン</tspan></text>
+      <text class="cls-7" transform="translate(131.31 2.51)"><tspan x="0" y="0">和佐ホール●</tspan></text>
+      <text class="cls-7" transform="translate(113.76 11.31)"><tspan x="0" y="0">和佐小●</tspan></text>
+      <text class="cls-7" transform="translate(106.46 2.51)"><tspan x="0" y="0">ウェルシア●</tspan></text>
+      <text class="cls-6" transform="translate(67.88 71.64)"><tspan x="0" y="0">●東署</tspan></text>
+      <line class="cls-12" x1="115.84" y1="35.46" x2="149.16" y2="49.49"/>
+      <text class="cls-6" transform="translate(111.77 39.71)"><tspan x="0" y="0">ファミマ●</tspan></text>
+      <text class="cls-6" transform="translate(112.17 63)"><tspan x="0" y="0">コスモス●</tspan></text>
+      <text class="cls-6" transform="translate(78.23 136.21)"><tspan x="0" y="0">喫茶ピュア●</tspan></text>
+      <text class="cls-6" transform="translate(100.85 125.97)"><tspan x="0" y="0">診療所●</tspan></text>
+      <text class="cls-6" transform="translate(57.8 106.43)"><tspan x="0" y="0">クロネコ●</tspan><tspan x="8.8" y="5.63">ヤマト</tspan></text>
+      <polyline class="cls-13" points="119.8 129.53 119.8 120 106.23 120"/>
+      <polyline class="cls-10" points="111.67 97.32 117.26 101.16 117.26 105.84 136.62 105.84"/>
+      <line class="cls-9" x1="121.76" y1="105.69" x2="121.76" y2="109.6"/>
+      <rect class="cls-17" x="117.26" y="109.55" width="7.24" height="9.29"/>
+      <path class="cls-17" d="M139.49,96.15l-14.18,15.91,22.35-15.57-8.18-.34Z"/>
+      <rect class="cls-17" x="134.5" y="78.9" width="39.68" height="19.82" rx="1.09" ry="1.09"/>
+      <text class="cls-1" transform="translate(139.69 93.4)"><tspan x="0" y="0">現地</tspan></text>
+      <g>
+        <line class="cls-15" x1="52.18" y1="92.64" x2="59.08" y2="92.64"/>
+        <path class="cls-18" d="M62.22,92.64c-1.48.55-3.32,1.49-4.46,2.48l.9-2.48-.9-2.48c1.14.99,2.98,1.93,4.46,2.48Z"/>
+      </g>
+      <g>
+        <line class="cls-15" x1="137.45" y1="53.73" x2="137.45" y2="65.95"/>
+        <path class="cls-18" d="M137.45,69.1c-.55-1.48-1.49-3.32-2.48-4.46l2.48.9,2.48-.9c-.99,1.14-1.93,2.98-2.48,4.46Z"/>
+      </g>
+      <g>
+        <line class="cls-15" x1="65.78" y1="92.64" x2="72.68" y2="92.64"/>
+        <path class="cls-18" d="M75.83,92.64c-1.48.55-3.32,1.49-4.46,2.48l.9-2.48-.9-2.48c1.14.99,2.98,1.93,4.46,2.48Z"/>
+      </g>
+      <g>
+        <polyline class="cls-15" points="79.8 92.64 86.81 92.64 89.05 106.49"/>
+        <path class="cls-18" d="M89.55,109.6c-.78-1.37-2-3.04-3.16-4l2.59.49,2.3-1.28c-.8,1.28-1.43,3.24-1.74,4.79Z"/>
+      </g>
+      <g>
+        <polyline class="cls-15" points="89.63 115.75 91.05 125.87 95.16 125.87"/>
+        <path class="cls-18" d="M98.31,125.87c-1.48.55-3.32,1.49-4.46,2.48l.9-2.48-.9-2.48c1.14.99,2.98,1.93,4.46,2.48Z"/>
+      </g>
+      <g>
+        <polyline class="cls-15" points="113.02 129.53 123.45 129.53 123.45 123.95"/>
+        <path class="cls-18" d="M123.45,120.81c.55,1.48,1.49,3.32,2.48,4.46l-2.48-.9-2.48.9c.99-1.14,1.93-2.98,2.48-4.46Z"/>
+      </g>
+      <g>
+        <path class="cls-15" d="M124.15,92.83c-3.01,2.24-10.7,4.74-16.45,4.32l3.88,4.8"/>
+        <path class="cls-18" d="M113.55,104.4c-1.36-.81-3.24-1.65-4.73-1.91l2.49-.86,1.37-2.25c-.06,1.51.37,3.53.87,5.02Z"/>
+      </g>
+      <line class="cls-15" x1="125.32" y1="33.48" x2="149.57" y2="33.48"/>
+      <g>
+        <line class="cls-15" x1="137.45" y1="33.48" x2="137.45" y2="44.18"/>
+        <path class="cls-18" d="M137.45,47.32c-.55-1.48-1.49-3.32-2.48-4.46l2.48.9,2.48-.9c-.99,1.14-1.93,2.98-2.48,4.46Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
